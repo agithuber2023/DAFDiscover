@@ -1,0 +1,2 @@
+Database	Path	Timestamp	n_tuples	n_attributes	n_FDs	ReadingTime	ExecTime	Memory	Status	row_check
+breast-cancer-wisconsin-enhanced	./json/breast-cancer-wisconsin-enhanced-20240124130108.json	20240124130108	700	11	77	0.0010001659393310547	0.215317964553833	finished	103537
